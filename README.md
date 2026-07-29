@@ -3,6 +3,7 @@ Machine Learning assignments and practice implementations in Python.
 
 ## Topics Covered
 - Gradient Descent using OOP
+- KMeans and KMeans++
 
 ## Technologies Used
 - Python
