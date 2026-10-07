@@ -3,7 +3,9 @@ Machine Learning assignments and practice implementations in Python.
 
 ## Topics Covered
 - Gradient Descent using OOP
-- KMeans and KMeans++
+- KMeans++
+- Page Rank Algorithm
+- Logistic Regression
 
 ## Technologies Used
 - Python
@@ -14,7 +16,7 @@ Machine Learning assignments and practice implementations in Python.
 - Jupyter Notebook
 
 ## Repository Structure
-Each assignment is organized in a separate folder and includes the source code, datasets (where permitted), and relevant documentation.
+Each assignment is organized in a separate folder and includes the source code and datasets (where available).
 
 ## Author
 Atrijo Roy
